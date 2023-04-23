@@ -1,0 +1,183 @@
+#EXTM3U
+#EXTINF:-1 ,DESCARGA LATINO MAX
+https://archive.org:443/serve/latino_20230416/Latino.mp4
+#EXTINF:-1,Tigo Sports Gt
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/1.ts
+#EXTINF:-1,Claro Sports 2 GT
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/2.ts
+#EXTINF:-1,Tigo Sports +
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/3.ts
+#EXTINF:-1,Azteca Guate
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/4.ts
+#EXTINF:-1,Canal 11
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/5.ts
+#EXTINF:-1,Canal 13
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/6.ts
+#EXTINF:-1,Guatevision
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/7.ts
+#EXTINF:-1,Canal 7
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/8.ts
+#EXTINF:-1,Canal 3
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/9.ts
+#EXTINF:-1,TN23
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/10.ts
+#EXTINF:-1,Canal 27
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/11.ts
+#EXTINF:-1,Nuevo Mundo Tv
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/12.ts
+#EXTINF:-1,Vea Canal
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/13.ts
+#EXTINF:-1,Canal Antigua
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/14.ts
+#EXTINF:-1,Paisaje TV Solola
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/15.ts
+#EXTINF:-1,Coatevision Escuintla
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/16.ts
+#EXTINF:-1,Cine Mexicana TV
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/17.ts
+#EXTINF:-1,Bein Sports Extra
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/18.ts
+#EXTINF:-1,Estrella TV
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/19.ts
+#EXTINF:-1,FILMEX TV
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/20.ts
+#EXTINF:-1,Sony Comedias
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/21.ts
+#EXTINF:-1,Telemundo Inter
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/22.ts
+#EXTINF:-1,TUDN Deportes
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/23.ts
+#EXTINF:-1,Mi Canal Guate
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/24.ts
+#EXTINF:-1,Plus TV Guate
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/25.ts
+#EXTINF:-1,Visof Suchi Guate
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/26.ts
+#EXTINF:-1,TL Novelas
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/27.ts
+#EXTINF:-1,Fox Sports Extra
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/28.ts
+#EXTINF:-1,La Liga - Sky Sports
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/29.ts
+#EXTINF:-1,La Liga Española
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://vpngratis.win:8080
+#EXTVLCOPT:http-user-agent=com.quetzalito.chapin2
+#EXTVLCOPT:network-caching=1000
+http://vpngratis.win:8080/live/79wRcsvM5Y/sVyn4fFmrG/30.ts
